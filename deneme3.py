@@ -53,6 +53,8 @@ class deneme3:
 obj=deneme3()
 obj.atm()
 
+ 
+
    
 
 
